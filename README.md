@@ -1,13 +1,13 @@
-# Sistema de Reserva de Hotel
+# Hotel Reservation System
 
-## Visão Geral
-Um sistema simples para gerenciamento de um hotel.
-Desenvolvido por: 
+## Overview
+A straightforward system for managing a hotel.
+Developed by: 
 - Arlindo Sergio Pereira Junior
 - Joaquim Guilherme de Carvalho Vilela Silva
 - Vitor Costa Vianna
 
-## Configuração
+## Configuration
 1. Clone o repositório:
    ```sh
    git clone https://replit.com/@arlindojunior05/HOTEL
