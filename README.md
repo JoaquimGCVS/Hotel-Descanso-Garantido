@@ -8,6 +8,6 @@ Developed by:
 - Vitor Costa Vianna
 
 ## Configuration
-1. Clone o repositório:
+1. Clone the repository:
    ```sh
    git clone https://replit.com/@arlindojunior05/HOTEL
